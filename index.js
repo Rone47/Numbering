@@ -7,4 +7,4 @@ gsap.from('#one, #numberGroup path', {
     duration: 0.8,
     transformOrigin: '50% 100%',
     ease: 'elastic(0.73, 0.6)'
-})
+});
